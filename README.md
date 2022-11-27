@@ -1,4 +1,4 @@
-﻿### Downloads an S3 folder and reduces size of /* files within to then re upload and optimise costs.
+﻿### Downloads an S3 folder and reduces size of /* files within to re upload and optimise costs.
 
 ```
 Assume you have 1M .jpg images in "medical-images" object store bucket in AWS.
